@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 45 - American Personal Medical Cost Variances
 
 **Please remember to update this section**
 
@@ -18,7 +18,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-{Add your stuff here}
+The Medical Cost Personal Dataset was provided by Kaggle, a website dedicated to prividing a community for data science and machine learning interested individuals and organizations. The data contains information on the age of a primary beneficiary of a medical cost, sex of the beneficiary, Body max index, number of dependent children, status as a smoker and the individual medical cost billed by health insurance. Data was collected before 2013 and was last updated in 2017 with the purpose of providing data to aid in the study of machine learning. The dataset was originally extracted from "Machine Learning with R by Brett Lantz" which collected the small dataset by a variety of means. I speculate that these columns relate to the most relevant factors correlated to major medical expenses.
 
 ## Team Members
 
