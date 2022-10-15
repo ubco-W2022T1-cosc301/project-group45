@@ -26,7 +26,7 @@ The Medical Cost Personal Dataset was provided by Kaggle, a website dedicated to
 
 - Person 1: one sentence about you!
 - Person 2: one sentence about you!
-- Person 3: one sentence about you!
+- Tom Ross: Hi, I'm a 3rd year computer science student.
 
 ## Images
 
