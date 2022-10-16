@@ -24,8 +24,8 @@ The Medical Cost Personal Dataset was provided by Kaggle, a website dedicated to
 
 **Please remember to update this section**
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Mojisola Adegbulugbe: one sentence about you!
+- Mukhtar Abdsalami: one sentence about you!
 - Tom Ross: Hi, I'm a 3rd year computer science student.
 
 ## Images
