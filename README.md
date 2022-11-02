@@ -9,10 +9,10 @@
 Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
-
-**Please remember to update this section**
-
-{Add your stuff here}
+With our analytics project we hope to show the effects of certain attributes such as age, geopgraphic region, sex , bmi and smoking/non-smoking on personal medical charges. We also hope to display how the privatized medical process in America and the subsqeuent charges it produces varies greatly from region to region. Also, we are interested to see whether we can plot "The regions with the oldest populatons and the highest charges".As individuals with access to free and readily available healthcare, the topic of Personal Medical Charges billed by Insurance companies set within a country characterized by a largely privatized medical industry is of great interest to us because the data set evidences the multiple attributes and demographic areas that influence personal medical cost. More definitively, we are interested in the variances in cost across age groups and measures of health such as smoking status and BMI and how these attributes can influence cost. 
+The questions we wish to explore are as follows: 
+-Is there any relevant correlation between the ratio of the quantitative variables such as age/charges.
+-Is there any relevant correlation between the ratio of sex/region compared to the subsequent charges.
 
 ## Describe your dataset in about 150-200 words
 
@@ -24,8 +24,8 @@ The Medical Cost Personal Dataset was provided by Kaggle, a website dedicated to
 
 **Please remember to update this section**
 
-- Mojisola Adegbulugbe: one sentence about you!
-- Mukhtar Abdsalami: one sentence about you!
+- Mojisola Adegbulugbe: Hi, I'm a 3rd year psychology student!
+- Mukhtar Abdsalami: Hello, I'm a 4th year management student.
 - Tom Ross: Hi, I'm a 3rd year computer science student.
 
 ## Images
