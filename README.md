@@ -37,5 +37,7 @@ The Medical Cost Personal Dataset was provided by Kaggle, a website dedicated to
 
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
 
+https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41
+
 
 
