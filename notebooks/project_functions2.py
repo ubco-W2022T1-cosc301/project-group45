@@ -3,7 +3,10 @@ import pandas as pd
 import seaborn as sns
 
 def load_and_process (uncleaned):
-    cleaned1 = (pd.read_csv(uncleaned).copy().drop(['age','smoker', 'bmi'], axis=1))
-    cleaned2 = cleaned1.assign(parent= cleaned1["children"] > 0)
-    
-    return cleaned2
+    df = pd.read_csv(uncleaned)
+    cleaned_data = (df.copy()
+                    .drop(['age','smoker', 'bmi'], axis=1)
+                    .assign(sex_region= df['sex'].astype(str) + "_" + df['region'].astype(str))
+                    .assign(parent= df["children"] > 0)
+                   )
+    return cleaned_data
