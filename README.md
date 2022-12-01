@@ -27,7 +27,7 @@ The Medical Cost Personal Dataset was provided by Kaggle, a website dedicated to
 
 {You can use this area for any images you want to include}
 
-<img src ="images/medical_image.png" width="100px">
+<img src ="images/medical_image.png" width="400px">
 
 ## References
 
