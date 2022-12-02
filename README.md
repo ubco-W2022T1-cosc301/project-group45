@@ -25,19 +25,17 @@ The Medical Cost Personal Dataset was provided by Kaggle, a website dedicated to
 
 ## Images
 
-**Please remember to update this section and remove the test image!**
-
 {You can use this area for any images you want to include}
 
-<img src ="images/test.png" width="100px">
+<img src ="images/medical_image.png" width="400px">
 
 ## References
 
-**Please remember to update this section**
-
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
 
-https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41
+Data Source: [Git Hub](https://gist.github.com/meperezcuello/82a9f1c1c473d6585e750ad2e3c05a41)
+
+Cover Page Image Source: [Medical Image](https://www.pexels.com/photo/close-up-photo-of-a-stethoscope-40568/)
 
 
 
