@@ -8,25 +8,33 @@ Universal Healthcare is one of the most valuable privileges we have in Canada th
 
 We started our EDA with a simple exploration of the general details, trends and shape of our data to better understand what we had to work with and how we would utilize it to answer our research question.
 
-- Put df.head here
+<img src ="images/report_eda_1.png" width="400px">
 
 This provided us with a basic understanding of the dataset by giving us the names of its columns and the type of data in each row
 
-- Put df.describe here
+<img src ="images/report_eda_2.png" width="400px">
 
 We now had a summary of the important numerical imformation pertinent to answering both our reasearch questions
 
-- Put bmi circle thing here
+<img src ="images/report_eda_3.png" width="400px">
 
 This figure shows the distribution charges for varying body mass indexes to help grasp a trend
 
-- smoker yes/no chart with sexes
+<img src ="images/report_eda_4.png" width="400px">
 
+From this we see that there is a higher amount of lower charges for both sexes of non smokers and lower amount but higher charges for both sexes of smokers. We will make the assumptiomn that this is due to the lower population of smokers in society over the whole.
 
+<img src ="images/report_eda_5.png" width="400px">
 
+From this plot we see that as the number of children increase the amount of charges actually get lower as opposed to our assumption going into the analysis that it would be the inverse. To understand this we extracted the amount of entries for each amount of children and came to the conclusion that this is due to less people having a greater number of children, providing a smaller sample size. To mitigate this we changed our focus to simply wether the individual was a parent or not. These can all be viewed in our data analysis ** Link analysis 2 github page **
 
+<img src ="images/report_eda_6.png" width="500px">
 
-{A summary of the highlights of your EDA, where you can show some visualizations of the exploratory data analysis your group did.}
+We then wanted to visualize the correlation between sex/region and charges to know where we could begin wrangling our data. This figure showed us some variances but nothing concrete enough to make a connection to charges. This meant we would need to combine the factor of parenthood to get a concrete trend.
+
+<img src ="images/report_eda_7.png" width="400px">
+
+Finally we used this pairplot to decide on which factors we would each keep when processing our data for the individual research questions. For the second research question The bmi has no significant correlation to how charges change for a parent/guardian as it would not affect their decision making process of seeking expensive medical attention. However bmi was essential to answering our first research question so we decided to create 2 seperate files of processed data to fit the needs of each question.
 
 ## Question 1 + Results:
 
