@@ -41,13 +41,17 @@ Finally we used this pairplot to decide on which factors we would each keep when
 
 Results of question : 
 
-#<img src ="images/report_eda_3.png" width="300px">
+<img src ="images/report_q1_1.png" width="300px">
                                                 
      
 There are a higher countable amount () of medical insurance charges in the nonsmoker category in comparison to the countable () amount of medical insurance charges in the yes-smoker category which allows us to conclude that individuals who identify as nonsmokers are more prone to receiving a medical insurance charge in comparison to their yes-smoker counterparts. The highest medical insurance charge in the nonsmoker status column was $36910.61, which is $26,859.82 less than the highest medical insurance charge in the yes medical category of $63770.42. This result evidences that individuals who identify as a smoker will be prone to receiving charges of higher monetary value, which is a result that may be caused due to poorer health and subsequently more seruous injuries as a result of their smoking habits. I chose to utilize a Boxplot to display the correlation between the smoker status (in this specific graph comparing yes and no status) and the monetary value of the medical insurance charge. The boxplot further evidences this relationship as it shows that there are a higher amount of medical charges in the nonsmoker category but lesser monetary value amount in comparison to the positive smoker status category. 
-    
-
  
+
+<img src ="images/report_q1_2.png" width="300px">
+
+The above area plot details the varying correlation between the comparison of the two categorical variables BMI > 25 (the BMI was set to analyze only those above 25 as they have an assumable propensity to experience an increase in health issues) and 'Yes' smoker status against the numerical variable of the monetary value of medical insurance charge. The variable kept constant in the area plot is the 'yes' smoker status and this allows us a basis to see how the value of the medical insurance charge fluctuates as the BMI of the individual changes across the collected data. Through observation of the peaks within the area plot it is  evident that the individuals with higher BMI's (peaks in the orange area) are positively correlated with the higher monetary value of insurance charge (peaks in the green area).It is also observable that when the BMI falls closer to a normal of BMI=25,meaning lesser propensity for obesity and subsequent health issues the monetary value of the medical insurance charge decreases immensely.
+
+
 
 
 
@@ -70,4 +74,4 @@ Finally with the above Tableau table you can easily see how the numbers differ a
 ## Summary/Conclusion:
 
 {A brief paragraph that highlights your key results and what you learned from doing this project.}
-
+In conclusion the evalutaion of this rich dataset informs us that there is a positive correlation between the monetary value of a medical insurance charge but there is not a positive correlation between the amount charges as a result of positive or negative smoker status. The results also show a positive correlation between BMI and monetary value of the charge as there was an evident fluctuation depending on whether the individual had a high BMI, then they would have a higher charge value and if they had a lower BMI, they would have a lower charge value. Furthermore, it is also evident that the average male will have a higher propensity to be charged with higher medical insurance amount in comparison to their female counterparts and this propensity is unaffected by not only region, but also will be unaffected by their parental status. With regards to the evaluation of the male species and who
