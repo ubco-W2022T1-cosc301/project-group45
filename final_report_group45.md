@@ -40,12 +40,14 @@ Finally we used this pairplot to decide on which factors we would each keep when
 **What is the correlation between the smoker status of the individual and the monetary value of their medical charge? Also, how does the correlation between smoker status and body mass index further affect the monetary value of the medical insurance charge an individual receives?
 
 Results of question : 
-    1.1  There are a higher countable amount () of medical insurance charges in the nonsmoker category in comparison to the countable () amount of medical insurance charges in the yes-smoker category which allows us to conclude that individuals who identify as nonsmokers are more prone to receiving a medical insurance charge in comparison to their yes-smoker counterparts. The highest medical insurance charge in the nonsmoker status column was $36910.61, which is $26,859.82 less than the highest medical insurance charge in the yes medical category of $63770.42. This result evidences that individuals who identify as a smoker will be prone to receiving charges of higher monetary value, which is a result that may be caused due to poorer health and subsequently more seruous injuries as a result of their smoking habits. I chose to utilize a Boxplot to display the correlation between the smoker status (in this specific graph comparing yes and no status) and the monetary value of the medical insurance charge. The boxplot further evidences this relationship as it shows that there are a higher amount of medical charges in the nonsmoker category but lesser monetary value amount in comparison to the positive smoker status category. 
-    
+
+#<img src ="images/report_eda_3.png" width="300px">
+                                                
+     
+There are a higher countable amount () of medical insurance charges in the nonsmoker category in comparison to the countable () amount of medical insurance charges in the yes-smoker category which allows us to conclude that individuals who identify as nonsmokers are more prone to receiving a medical insurance charge in comparison to their yes-smoker counterparts. The highest medical insurance charge in the nonsmoker status column was $36910.61, which is $26,859.82 less than the highest medical insurance charge in the yes medical category of $63770.42. This result evidences that individuals who identify as a smoker will be prone to receiving charges of higher monetary value, which is a result that may be caused due to poorer health and subsequently more seruous injuries as a result of their smoking habits. I chose to utilize a Boxplot to display the correlation between the smoker status (in this specific graph comparing yes and no status) and the monetary value of the medical insurance charge. The boxplot further evidences this relationship as it shows that there are a higher amount of medical charges in the nonsmoker category but lesser monetary value amount in comparison to the positive smoker status category. 
     
 
-
-   1.2 results 
+ 
 
 
 
