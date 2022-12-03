@@ -73,5 +73,4 @@ Finally with the above Tableau table you can easily see how the numbers differ a
 
 ## Summary/Conclusion:
 
-{A brief paragraph that highlights your key results and what you learned from doing this project.}
 In conclusion the evalutaion of this rich dataset informs us that there is a positive correlation between the monetary value of a medical insurance charge but there is not a positive correlation between the amount charges as a result of positive or negative smoker status. The results also show a positive correlation between BMI and monetary value of the charge as there was an evident fluctuation depending on whether the individual had a high BMI, then they would have a higher charge value and if they had a lower BMI, they would have a lower charge value. Furthermore, it is also evident that the average male will have a higher propensity to be charged with higher medical insurance amount in comparison to their female counterparts and this propensity is unaffected by not only region, but also will be unaffected by their parental status. With regards to the evaluation of the male species and who
