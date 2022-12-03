@@ -20,7 +20,6 @@ The Medical Cost Personal Dataset was provided by Kaggle, a website dedicated to
 
 - Mojisola Adegbulugbe: Hi, I'm a 3rd year psychology student!
 - Mukhtar Abdsalami: Hello, I'm a 4th year management student.
-- Tom Ross: Hi, I'm a 3rd year computer science student.
 
 ## Images
 
